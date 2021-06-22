@@ -1,0 +1,44 @@
+.Box{
+    width: 370px;
+    height: 470px;
+    border-style:solid;
+    border-width: 2px;
+    display:inline-flex;
+    margin-left:60px
+    }
+#SITE{
+    text-align:left;
+    margin-left:100px;
+}
+#Location{
+    text-align:top;
+    
+}
+h2{
+    margin-left: 120px;
+
+}
+h4{
+    margin-right: 150px;
+    text-overflow: ellipsis;
+    
+}
+/* .button1{
+    background-color: rgb(250, 250, 250);
+    padding: 7px 30px;
+    border-width: 2px;
+    float: left;
+    margin-left: 70px;
+}
+.button2{
+    background-color: rgb(250, 250, 250);
+    padding: 7px 30px;
+    border-width: 2px;
+    float: right;
+} */
+
+ .card:hover {
+    background-color: rgba(10, 7, 49, 0.185);
+    border: 1px solid rgba(0, 217, 255, 0.192);
+    transform: scale(1.1);
+} 

@@ -1,0 +1,28 @@
+
+fieldset {
+    background-color: #eeeeee;
+    width: 550px;
+    height: 525px;
+}
+.column-left {
+   text-align: left;
+    height: 80%;
+    width: 30%
+}
+.column-right {
+    height: 68%;
+    
+    position: absolute;
+    top:25px;
+    right: 200px;
+    width: 55%
+}
+.column {
+    height: 100%;
+    width: 100%
+}
+.Rani {
+    width: 550px;
+    height: 525px;
+    background-color: red;
+}
